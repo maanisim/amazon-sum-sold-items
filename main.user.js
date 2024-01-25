@@ -4,8 +4,10 @@
 // @version      2024-01-25
 // @description  Sum sold items when visitng a page
 // @author       You
-// @include     /^https?:\/\/(www|smile).amazon\.*\/s\?*
+// @include     /^https?:\/\/(www|smile).amazon\.*\/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.co.uk
+// @updateURL   https://raw.githubusercontent.com/michalani/amazon-sum-sold-items/main/main.user.js
+// @downloadURL https://raw.githubusercontent.com/michalani/amazon-sum-sold-items/main/main.user.js
 // @grant        none
 // ==/UserScript==
 // 2024-01-24 - Initial Version
